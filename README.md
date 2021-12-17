@@ -1,5 +1,5 @@
 # 
-Formulario post php (Solo con fines invesitagción o estudio)
+Formulario post php (Solo con fines invesitagción o estudio) de captura las credenciales tecleadas
 
 LEEME:
 index.html = Fichero web pincipal 
